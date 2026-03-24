@@ -215,9 +215,7 @@ rtdetr_model  = RTDETR('rtdetr-l.pt')   # ~120MB — RT-DETR large
 ```
 
 ### Run the Notebook
-Open `try.ipynb` in Jupyter or Google Colab and run all cells sequentially.
-
-> ⚡ **Recommended:** Run on a GPU (T4/P100/A100). CPU inference works but is significantly slower for SAHI sliced inference.
+Open `Group10_RT-DETR.ipynb` in Jupyter or Google Colab and run all cells sequentially.
 
 ---
 
@@ -243,10 +241,6 @@ After running the full notebook, the following files are saved:
 1. **RT-DETR:** Zhao et al., *"DETRs Beat YOLOs on Real-time Object Detection"*, CVPR 2024. [arXiv:2304.08069](https://arxiv.org/abs/2304.08069)
 2. **YOLOv8:** Jocher et al., *Ultralytics YOLOv8*, 2023. [ultralytics.com](https://ultralytics.com)
 3. **SAHI:** Akyon et al., *"Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection"*, ICIP 2022. [arXiv:2202.06934](https://arxiv.org/abs/2202.06934)
-4. **DETR:** Carion et al., *"End-to-End Object Detection with Transformers"*, ECCV 2020.
-5. **EMA:** *"Efficient Multi-Scale Attention Module with Cross-Spatial Learning"*, ICASSP 2023.
-6. **RepVGG:** Ding et al., *"RepVGG: Making VGG-style ConvNets Great Again"*, CVPR 2021.
-7. **FasterNet / PConv:** Chen et al., *"Run, Don't Walk: Chasing Higher FLOP Efficiency in CNNs"*, CVPR 2023.
 
 ---
 
@@ -261,4 +255,4 @@ After running the full notebook, the following files are saved:
 
 ---
 
-*Project completed as part of Phase 2 evaluation — Code Implementation & Model Improvement.*
+
