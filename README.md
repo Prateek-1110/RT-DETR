@@ -8,7 +8,7 @@
 
 ```
 📦 rt-detr-vs-yolo/
-├── 📓 try.ipynb              ← Main implementation notebook (all code)
+├── 📓 Group10_RT-DETR.ipynb             ← Main implementation notebook (all code)
 ├── 📊 report.pdf             ← Full written report with analysis & citations
 ├── 📽️  presentation.pptx     ← Slide deck (architecture, results, visuals)
 └── 📄 README.md              ← This file
@@ -173,7 +173,7 @@ Input channels: [C1 | C2 | C3 | C4 | ... | Cn]
 
 ## 🗂️ Notebook Structure
 
-The notebook (`try.ipynb`) is organized into 9 sections:
+The notebook (`Group10_RT-DETR.ipynb`) is organized into 9 sections:
 
 | Section | Content |
 |---------|---------|
