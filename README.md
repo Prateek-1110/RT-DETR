@@ -7,7 +7,7 @@
 ## 📁 Repository Contents
 
 ```
-📦 rt-detr-vs-yolo/
+📦 RT-DETR/
 ├── 📓 Group10_RT-DETR.ipynb             ← Main implementation notebook (all code)
 ├── 📊 report.pdf             ← Full written report with analysis & citations
 ├── 📽️  presentation.pptx     ← Slide deck (architecture, results, visuals)
